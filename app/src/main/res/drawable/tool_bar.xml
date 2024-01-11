@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<gradient tools:ignore="ExtraText">
+    android:angle="90"
+    android:startColor="@android:color/transparent"
+    android:endColor="@android:color/transparent"
+    android:type="linear"
+</gradient>
+
+</resources>
